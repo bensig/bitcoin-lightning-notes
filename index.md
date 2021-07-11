@@ -345,6 +345,11 @@ just starting out.
 
 ## Channel Advice
 
+From :prem: ghinde:
+
+I started off small and joined a number of 1M rings but found next to no traffic. I'm a member of a private group who are trying to create a super node for want of a better term and we started with 1M channels internally too but were doing alright in terms of traffic. I recently joined a 5M ring and found my traffic through my node exploded so now I am focused on being more selective with who I open channels to but making the channels larger. This change has fed into our super node setup too and we're taking advantage of the low fees to close our chaneels and reopen at 2M to see what difference that makes. Just my own personal philosophy based on my learnings so far. Could be right, could be wrong. Also I'm more interested in creating a more decentralised network so when looking for bigger nodes to connect with I'll start at position 100 on the top nodes lists to research from.
+
+
 Advice from AZHodl:
 
 Personally, I would open up 5-10 channels to the best professional nodes
