@@ -1,8 +1,8 @@
 title: Lightning Network Notes for Beginners
 description: Collection of learnings about lightning so that other people can find this information faster.
-image: //bensig.github.io/bitcoin-lightning-notes/images/Lightning_Network.svg
+image: /images/Lightning_Network.svg
 image.twitter: //bensig.github.io/bitcoin-lightning-notes/images/Lightning_Network.svg
-image.facebook: //bensig.github.io/bitcoin-lightning-notes/images/Lightning_Network.svg
+image.facebook: /images/Lightning_Network.svg
 twitter:
   username: bensig
   card: summary
