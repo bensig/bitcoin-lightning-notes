@@ -1,4 +1,4 @@
-![Lightning Logo](https://upload.wikimedia.org/wikipedia/commons/5/5a/Lightning_Network.svg)
+![Lightning Logo](images/Lightning_Network.svg)
 
 These are helpful notes I have compiled about the Bitcoin Lightning Network. This covers everything from basic info, which wallets support lightning, and even advanced information about running a lightning node.
 
