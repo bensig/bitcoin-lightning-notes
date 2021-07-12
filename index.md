@@ -261,7 +261,19 @@ Compile from source like a boss using my
 ## Channels
 
 There are lots of great resources to find nodes to peer with and create
-channels
+channels. 
+
+Channels must be opened with a bitcoin transaction. 
+
+Bitcoin transactions are priced in sats / virtual byte.
+
+Channels cost 0.00000154 BTC if you price at the lowest price of 1 sats/virtual Byte (vB). 
+
+Pending transactions on bitcoin are stored in the [mempool which you can view here on mempool.space](https://mempool.space/).
+
+If the mempool is empty, then you can get transactions included for 1 sat / vB, but the larger the mempool becomes - the pricing to include a transaction becomes more expensive. The most expensive bitcoin transaction fees ([not paid by mistake](https://themerkle.com/3-largest-bitcoin-transaction-fees-ever-recorded/)) was on Dec 21, 2017 at 1400+ sats/vB according to [Johoe](https://jochen-hoenicke.de/queue/#BTC,all,fee).
+
+You can see the current Bitcoin Fee Estimates here: https://bitcoiner.live/
 
 ### Lightning Noderunner Groups
 
